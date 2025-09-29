@@ -5,15 +5,6 @@
 **Short Description:**  
 This project involves data analysis and visualization using Python. It leverages Pandas, NumPy, Matplotlib, and Seaborn to explore and interpret datasets, providing meaningful insights.
 
----
-
-## Table of Contents
-- [Project Overview](#project-overview)
-- [Technology Used](#technology-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
